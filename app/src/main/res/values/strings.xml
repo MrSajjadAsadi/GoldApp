@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoldApp</string>
+    <string name="GoldTextSp">قیمت روز طلا و ارز</string>
+    <string name="Tala">قیمت طلا</string>
+    <string name="txtArz">قیمت ارز</string>
+    <string name="txtcrypto">قیمت ارز دیجیتال</string>
+</resources>
